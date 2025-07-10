@@ -1,0 +1,15 @@
+# Composer
+/vendor/
+/composer.lock
+
+# PHPStorm, VSCode vb.
+.idea/
+/.vscode/
+
+# OS geçici dosyaları
+.DS_Store
+Thumbs.db
+
+# Log ve geçici
+*.log
+tmp/
